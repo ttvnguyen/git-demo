@@ -1,0 +1,1 @@
+const goodbye =() =>{console.log("say goodbye")}
